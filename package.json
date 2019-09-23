@@ -23,7 +23,7 @@
   "dependencies": {
     "chalk": "^1.1.1",
     "convert-source-map": "^1.2.0",
-    "cssnano": "^3.3.2",
+    "cssnano": "^4.1.10",
     "hash-sum": "^1.0.2",
     "json5": "^0.5.1",
     "lru-cache": "^4.0.0",
@@ -55,6 +55,6 @@
     "node-sass": "^3.3.3",
     "pug": "^2.0.0-alpha6",
     "rimraf": "^2.5.2",
-    "stylus": "^0.52.4"
+    "stylus": "^0.54.7"
   }
 }
